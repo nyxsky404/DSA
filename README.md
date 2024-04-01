@@ -1,69 +1,55 @@
-# DSA Practice Repository
+# DSA Theory and Implementation
 
-This repository contains my practice solutions for various Data Structures and Algorithms problems. The solutions are organized by topics:
+A comprehensive collection of Data Structures and Algorithms implementations with detailed explanations and complexity analysis.
 
-- Arrays
-- Linked Lists
-- Hashing
-- Sorting Algorithms
-- Stack & Queue
-- Recursion
-- Time & Space Complexity
-- OOPS Concepts
+## Table of Contents
 
-Each topic contains multiple problems with their solutions in Python.
+1. [Arrays](#arrays)
+2. [Linked Lists](#linked-lists)
+3. [Sorting Algorithms](#sorting-algorithms)
+4. [Stack & Queue](#stack--queue)
+5. [Recursion](#recursion)
+6. [Hashing](#hashing)
+7. [OOPS Concepts](#oops-concepts)
 
-## Topics Covered
+## Arrays
 
-### Arrays
+Implementation of various array operations and problems.
 
-- Basic array operations
-- Edge cases handling
-- Common array problems
+## Linked Lists
 
-### Linked Lists
+Complete implementation of singly linked lists with various operations.
 
-- Basic operations
-- Cycle detection (Floyd's Algorithm)
-- Middle element finding
-- Reversal
-- Nth node from end
+## Sorting Algorithms
 
-### Sorting Algorithms
+Implementation of different sorting algorithms with complexity analysis.
 
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
+## Stack & Queue
 
-### Stack & Queue
+Implementation of stack and queue data structures with various operations.
 
-- Implementation
-- Valid Parentheses
-- Queue using Stack
-- Stack using Queue
-- Deque operations
+## Recursion
 
-### Recursion
+Basic to advanced recursion problems and implementations.
 
-- Basic problems
-- Functional approach
-- Parameterized approach
+## Hashing
 
-### Hashing
+Implementation of hash tables and related problems.
 
-- Dictionary implementation
-- List-based hashing
+## OOPS Concepts
 
-### OOPS
+Object-oriented programming concepts and implementations.
 
-- Basic object-oriented programming concepts
+## Complexity Analysis
 
-## Usage
+Each implementation includes:
 
-Each file contains a specific problem solution. You can run the Python files directly to see the output.
+- Time Complexity
+- Space Complexity
+- Best Case
+- Worst Case
+- Average Case
 
 ## Contributing
 
-Feel free to fork this repository and submit pull requests for any improvements or additional problems.
+Contributions are welcome! Please feel free to submit a Pull Request.
